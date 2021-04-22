@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeVentureTask</string>
+    <string name="enter_time_to_start">Enter Time to start</string>
+    <string name="enter_time_to_start_again">Enter Time to start again</string>
+    <string name="enter_time_in_second">Enter time in second</string>
+    <string name="start_timer">Start timer</string>
+    <string name="stop">Stop</string>
+</resources>
